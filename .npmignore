@@ -1,0 +1,6 @@
+**/*.html
+.github/
+download/
+ads.txt
+CNAME
+robots.txt
