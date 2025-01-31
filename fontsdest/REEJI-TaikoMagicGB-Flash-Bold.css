@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "REEJI-TaikoMagicGB-Flash";
+    src: url("REEJI-TaikoMagicGB-Flash-Bold.eot"); /* IE9 */
+    src: url("REEJI-TaikoMagicGB-Flash-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("REEJI-TaikoMagicGB-Flash-Bold.woff2") format("woff2"), /* chrome 36+, firefox 39+,iOS 10+, Android 67+ */
+    url("REEJI-TaikoMagicGB-Flash-Bold.woff") format("woff"), /* chrome, firefox */
+    url("REEJI-TaikoMagicGB-Flash-Bold.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("REEJI-TaikoMagicGB-Flash-Bold.svg#REEJI-TaikoMagicGB-Flash") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
